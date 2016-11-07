@@ -1,0 +1,6 @@
+icons_app ICON "icons/app.ico"
+icons_exit RCDATA "icons/exit.png"
+icons_save RCDATA "icons/save.png"
+icons_about RCDATA "icons/about.png"
+
+#include <wx/msw/wx.rc>

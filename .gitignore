@@ -1,0 +1,15 @@
+# Object files created during compilation
+obj
+
+# Binaries
+bin
+
+# Files required to compile on Windows (wxWidgets static library)
+include
+lib
+
+# SFX including files required to compile on Windows (wxWidgets static library)
+wxwidgets_windows.exe
+
+# Saved rolls that may be present in the project folder due to testing
+rolls.txt
